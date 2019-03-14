@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Widget2</string>
+    <string-array name="names">
+        <item>Krishna veni</item>
+        <item>Kowlini</item>
+        <item>Likitha</item>
+        <item>Santhi</item>
+        <item>Gayathri</item>
+        <item>prasanna</item>
+        <item>Ayyappa</item>
+
+    </string-array>
+</resources>
